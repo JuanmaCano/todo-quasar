@@ -24,9 +24,7 @@
 			class="bg-grey-1"
 		>
 			<q-list>
-				<q-item-label header class="text-grey-8">
-					Menú de navegación
-				</q-item-label>
+				<q-item-label header class="text-grey-8"> Menu </q-item-label>
 
 				<EssentialLink
 					v-for="link in essentialLinks"

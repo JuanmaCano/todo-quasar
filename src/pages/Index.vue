@@ -7,7 +7,7 @@
 				save: {
 					tip: 'Save your task',
 					icon: 'save',
-					label: 'Guardar',
+					label: 'Save',
 					handler: saveTask,
 				},
 			}"
