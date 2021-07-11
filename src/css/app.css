@@ -1,0 +1,30 @@
+/* app global css */
+:root {
+	--blue: #0596ff;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	padding: 0;
+}
+
+.blue {
+	color: var(--blue);
+}
+
+.bblue {
+	background-color: var(--blue);
+	color: white;
+}
